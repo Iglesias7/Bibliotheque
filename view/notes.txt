@@ -1,0 +1,11 @@
+La base de données contient 3 utilisateurs : 
+
+username        password    role
+----------------------------------
+CHENDJOU       CHENDJOU     admin
+IDISOULE       IDISOULE     manager
+Dongue         Dongue       member
+
+
+
+ 
